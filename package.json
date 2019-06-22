@@ -1,0 +1,25 @@
+{
+  "name": "demo-cloud-extended-sd",
+  "version": "1.0.0",
+  "description": "Google Cloud Extended 19 demo for App Engine",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julio-jimenez/auction.git"
+  },
+  "author": "Julio Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julio-jimenez/auction/issues"
+  },
+  "homepage": "https://github.com/julio-jimenez/auction#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "pug": "^2.0.4",
+    "request-promise": "^4.2.4"
+  }
+}
