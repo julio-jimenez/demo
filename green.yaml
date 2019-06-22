@@ -1,6 +1,5 @@
 
 env: flex
-service: green
 runtime: nodejs
 env_variables:
   COLOR: 'green'
